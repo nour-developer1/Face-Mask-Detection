@@ -1,4 +1,4 @@
-# Face_Mask_detection
+# Face Mask Detection
 My second task as Machine learning Engineer
 This repository contains a comprehensive implementation of a face mask detection system using machine learning techniques.
 
