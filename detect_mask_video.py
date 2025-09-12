@@ -1,4 +1,3 @@
-# import the necessary packages
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
@@ -21,7 +20,7 @@ def detect_and_predict_mask(frame, faceNet, maskNet):
 	detections = faceNet.forward()
 	print(detections.shape)
 
-	# initialize our list of faces, their corresponding locations,
+	# initialize our list of faces, their corresponding locations
 	# and the list of predictions from our face mask network
 	faces = []
 	locs = []
@@ -125,4 +124,9 @@ while True:
 
 # do a bit of cleanup
 cv2.destroyAllWindows()
+
 vs.stop()
+
+# my email------------> (nour.developer1@gmail.com)
+
+# @Nour_El-Rouby          #the best models don't just learn - they understand.
