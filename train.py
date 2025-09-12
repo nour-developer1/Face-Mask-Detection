@@ -1,4 +1,3 @@
-# import the necessary packages
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications import MobileNetV2
@@ -138,4 +137,9 @@ plt.title("Training Loss and Accuracy")
 plt.xlabel("Epoch #")
 plt.ylabel("Loss/Accuracy")
 plt.legend(loc="lower left")
+
 plt.savefig("plot.png")
+
+# my email------------> (nour.developer1@gmail.com)
+
+# @Nour_El-Rouby          #the best models don't just learn - they understand.
