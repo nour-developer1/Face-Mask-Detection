@@ -13,6 +13,4 @@ The face mask detection system is based on deep learning algorithms that are tra
 The dataset used for training the face mask detection model was collected from publicly available sources and augmented to include various scenarios and lighting conditions. The dataset contains thousands of images of people with and without masks and is balanced to ensure unbiased model training.
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
-### Results
 
-The trained model achieves high accuracy in detecting whether an individual is wearing a mask or not. The system can be easily integrated into existing security systems or public spaces to ensure that individuals are complying with mask mandates.
