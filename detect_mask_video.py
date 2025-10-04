@@ -127,6 +127,6 @@ cv2.destroyAllWindows()
 
 vs.stop()
 
-# my email------------> (nour.developer1@gmail.com)
 
 # @Nour_El-Rouby          #the best models don't just learn - they understand.
+
