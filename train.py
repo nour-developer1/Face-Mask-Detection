@@ -140,6 +140,6 @@ plt.legend(loc="lower left")
 
 plt.savefig("plot.png")
 
-# my email------------> (nour.developer1@gmail.com)
 
 # @Nour_El-Rouby          #the best models don't just learn - they understand.
+
