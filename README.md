@@ -21,5 +21,5 @@ https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 ### Results
 
-The trained model achieves high accuracy in detecting whether an individual is wearing a mask or not. The system can be easily integrated into existing security systems or public spaces to ensure that individuals are complying with mask .
+The trained model achieves high accuracy in detecting whether an individual is wearing a mask or not. The system can be easily integrated into existing security systems or public spaces to ensure that individuals are complying with mask mandates.
 
